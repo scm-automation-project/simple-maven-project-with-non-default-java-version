@@ -1,0 +1,1 @@
+# simple-maven-project-with-non-default-java-version
